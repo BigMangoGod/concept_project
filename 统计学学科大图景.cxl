@@ -1,0 +1,292 @@
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <res-meta xmlns="">
+    <dc:title>统计学学科大图景</dc:title>
+    <dc:creator>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dc:creator>
+    <dc:contributor>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dc:contributor>
+    <dcterms:rightsHolder>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dcterms:rightsHolder>
+  </res-meta>
+  <map xmlns="" width="0" height="0">
+    <concept-list>
+      <concept id="e9d2af7ca-78293cb-b99" label="比较两个分布函数是否不可区分"/>
+      <concept id="ce84422e7-c44d19d-7ef" label="极大似然估计"/>
+      <concept id="8d50d1cf4-ed63955-53a" label="分布函数$\rho\left(x\right)$"/>
+      <concept id="05ef2eec2-e7b20d3-2a7" label="参数估计"/>
+      <concept id="ad372c13c-7e0d6b8-b6b" label="矩估计"/>
+      <concept id="bbfcc83ab-585fe84-c4d" label="一个数据生成模型：某些变量独立（如果有协方差，&#10;则原则上可以对协方差矩阵对角化，&#10;也就是做主成分分析PCA来得到独立变量），&#10;并且来自于某个已知的分布函数，&#10;其他变量以某种已知的方式依赖于这些变量"/>
+      <concept id="599b3a925-f4d8e56-a10" label="假设检验"/>
+      <concept id="b4429ed44-d70de24-dfa" label="描述性统计结果及其置信区间"/>
+      <concept id="c92b7acc8-ddeba05-249" label="Bayesian估计"/>
+      <concept id="84b2d8e59-26a0b13-c9d" label="从给定数据$\left\{x_{i}\right\}$（$x_{i}$可以是多维矢量）中得到&#10;某个判断$A\left(\left\{x_{i}\right\}\right)$（例如，任意取一个$x$满足$x&gt;x^{*}$，&#10;或者$x$的分量之间存在某个关系$x^{1}=f\left(x^2\right)$，&#10;或者$x$的两个分量的分布函数之间有差别）&#10;正确的概率"/>
+      <concept id="742d12027-a7e6eac-9e2" label="概率图模型"/>
+      <concept id="40e0995b0-dcd9e38-504" label="回归模型"/>
+      <concept id="b3abd49b4-2808708-793" label="待计算参数"/>
+      <concept id="864de891e-a4a1e50-67e" label="从数据$\left\{x_{i}\right\}$"/>
+      <concept id="a1c4222cf-ac792fa-495" label="统计学解决什么问题，用什么方法和思维，基于哪些概念？"/>
+      <concept id="f61e5f829-cf5e5b1-146" label="待计算判断"/>
+      <concept id="1f99bd314-985b64a-559" label="变量$x$独立地产生于分布函数$\rho\left(x,\theta\right)$，以一定的可信度"/>
+      <concept id="6d98cf59d-fcba3f7-998" label="$\left\{x_{i}\right\}$的重抽样"/>
+      <concept id="23f016929-411c954-843" label="参数估计值的误差（置信区间）"/>
+      <concept id="cda1873fd-0568fb7-826" label="待确定参数的分布函数$\rho(x,\theta)$"/>
+      <concept id="e01c07a84-bd5e70a-c88" label="Empirical distribution（经验分布）函数$\rho(x)$"/>
+      <concept id="0bc1f5bfa-b81cfdf-22e" label="概率论的计算&#10;或者&#10;Monte Carlo模拟"/>
+      <concept id="1da8a0341-13d1548-1df" label="拟合优度检验"/>
+      <concept id="968c03a96-5ad13a0-c0f" label="这个分布函数下判断$A(x)$正确的概率"/>
+      <concept id="39671a106-73cd2a7-7c6" label="非参数估计"/>
+      <concept id="5d33146d0-b4a1fba-54c" label="变量$x$独立地产生于分布函数$\rho\left(x,\theta\right)$，变量$y=ax+b$，以一定的可信度"/>
+      <concept id="b92b884ab-154735a-d6d" label="Bootstrap方法"/>
+      <concept id="da08451d8-be41597-7c2" label="统计模型"/>
+      <concept id="6b89dfa96-102d8f3-8ec" label="估计式$A\left(x\right)$或者$\theta\left(x\right)$"/>
+      <concept id="14989c24f-46c6667-b63" label="统计学"/>
+    </concept-list>
+    <concept-appearance-list>
+      <concept-appearance id="e9d2af7ca-78293cb-b99" x="1225" y="293"/>
+      <concept-appearance id="ce84422e7-c44d19d-7ef" x="707" y="601"/>
+      <concept-appearance id="8d50d1cf4-ed63955-53a" x="468" y="463"/>
+      <concept-appearance id="05ef2eec2-e7b20d3-2a7" x="607" y="564"/>
+      <concept-appearance id="ad372c13c-7e0d6b8-b6b" x="699" y="635"/>
+      <concept-appearance id="bbfcc83ab-585fe84-c4d" x="467" y="1014"/>
+      <concept-appearance id="599b3a925-f4d8e56-a10" x="600" y="951"/>
+      <concept-appearance id="b4429ed44-d70de24-dfa" x="344" y="516"/>
+      <concept-appearance id="c92b7acc8-ddeba05-249" x="704" y="677"/>
+      <concept-appearance id="84b2d8e59-26a0b13-c9d" x="469" y="175"/>
+      <concept-appearance id="742d12027-a7e6eac-9e2" x="639" y="809"/>
+      <concept-appearance id="40e0995b0-dcd9e38-504" x="631" y="857"/>
+      <concept-appearance id="b3abd49b4-2808708-793" x="985" y="417"/>
+      <concept-appearance id="864de891e-a4a1e50-67e" x="470" y="363"/>
+      <concept-appearance id="a1c4222cf-ac792fa-495" x="711" y="35"/>
+      <concept-appearance id="f61e5f829-cf5e5b1-146" x="980" y="335"/>
+      <concept-appearance id="1f99bd314-985b64a-559" x="894" y="965"/>
+      <concept-appearance id="6d98cf59d-fcba3f7-998" x="1018" y="462"/>
+      <concept-appearance id="23f016929-411c954-843" x="1004" y="627"/>
+      <concept-appearance id="cda1873fd-0568fb7-826" x="866" y="561"/>
+      <concept-appearance id="e01c07a84-bd5e70a-c88" x="892" y="294"/>
+      <concept-appearance id="0bc1f5bfa-b81cfdf-22e" x="867" y="709"/>
+      <concept-appearance id="1da8a0341-13d1548-1df" x="634" y="908"/>
+      <concept-appearance id="968c03a96-5ad13a0-c0f" x="466" y="711"/>
+      <concept-appearance id="39671a106-73cd2a7-7c6" x="623" y="297"/>
+      <concept-appearance id="5d33146d0-b4a1fba-54c" x="909" y="1043"/>
+      <concept-appearance id="b92b884ab-154735a-d6d" x="814" y="383"/>
+      <concept-appearance id="da08451d8-be41597-7c2" x="467" y="851"/>
+      <concept-appearance id="6b89dfa96-102d8f3-8ec" x="1150" y="378"/>
+      <concept-appearance id="14989c24f-46c6667-b63" x="126" y="177"/>
+    </concept-appearance-list>
+    <linking-phrase-list>
+      <linking-phrase id="bbc1ce481-2a852c6-c03" label="转化"/>
+      <linking-phrase id="77c1f0e1c-296b219-8ec" label="运用，例如"/>
+      <linking-phrase id="ff26533cf-39a1128-8a0" label="例如"/>
+      <linking-phrase id="2c296b78f-a33725e-1cb" label="依赖于"/>
+      <linking-phrase id="78f50a21b-dcae3ed-392" label="得到"/>
+      <linking-phrase id="f469b1d52-5336c09-2bb" label="通过"/>
+      <linking-phrase id="2cc1ca21f-9639a5b-c17" label="得到"/>
+      <linking-phrase id="6fdc422fb-feea5d8-451" label="进入"/>
+      <linking-phrase id="bd40b1b29-c7cd278-caf" label="例如"/>
+      <linking-phrase id="39f3d47ac-51c7d05-a4f" label="通过"/>
+      <linking-phrase id="b13ceaf8b-cba8911-92d" label="从…中"/>
+      <linking-phrase id="b5b11e79c-c7ddf7a-1d0" label="计算"/>
+      <linking-phrase id="53079a54e-d14a8af-9c6" label="可以直接得到"/>
+      <linking-phrase id="8a63ac680-9c6cdb3-b58" label="分为"/>
+      <linking-phrase id="2443137c7-2521317-271" label="为 "/>
+      <linking-phrase id="fd7c5010e-ff42f78-1c4" label="例如"/>
+      <linking-phrase id="d9f7738b2-4e30440-e33" label="通过…来解决"/>
+      <linking-phrase id="414d6bf88-9c46f96-51f" label="旨在"/>
+      <linking-phrase id="00d80a6ca-7d06160-41d" label="例如"/>
+      <linking-phrase id="eaf4d3d59-f0b87e8-699" label="再计算得到"/>
+      <linking-phrase id="499a24fb7-3f4e346-ac7" label="得到"/>
+      <linking-phrase id="e01ce4612-c489a94-0e2" label="原则上需要转化为"/>
+      <linking-phrase id="8b5df32da-00e4440-7d6" label="意味着"/>
+      <linking-phrase id="79400cdd4-612cf94-429" label="得到"/>
+      <linking-phrase id="1e0dee9d3-a18165a-16a" label="其中有一些典型分布和典型关系成了"/>
+      <linking-phrase id="db669a22c-61b72b8-16f" label="其中，有"/>
+      <linking-phrase id="935ee1504-507ad77-434" label="做"/>
+      <linking-phrase id="7983ee5b0-a2eb949-4f4" label="进一步用于"/>
+    </linking-phrase-list>
+    <linking-phrase-appearance-list>
+      <linking-phrase-appearance id="bbc1ce481-2a852c6-c03" x="912" y="381"/>
+      <linking-phrase-appearance id="77c1f0e1c-296b219-8ec" x="607" y="632"/>
+      <linking-phrase-appearance id="ff26533cf-39a1128-8a0" x="664" y="1014"/>
+      <linking-phrase-appearance id="2c296b78f-a33725e-1cb" x="853" y="339"/>
+      <linking-phrase-appearance id="78f50a21b-dcae3ed-392" x="468" y="410"/>
+      <linking-phrase-appearance id="f469b1d52-5336c09-2bb" x="867" y="629"/>
+      <linking-phrase-appearance id="2cc1ca21f-9639a5b-c17" x="688" y="563"/>
+      <linking-phrase-appearance id="6fdc422fb-feea5d8-451" x="1005" y="706"/>
+      <linking-phrase-appearance id="bd40b1b29-c7cd278-caf" x="679" y="386"/>
+      <linking-phrase-appearance id="39f3d47ac-51c7d05-a4f" x="550" y="361"/>
+      <linking-phrase-appearance id="b13ceaf8b-cba8911-92d" x="469" y="308"/>
+      <linking-phrase-appearance id="b5b11e79c-c7ddf7a-1d0" x="1102" y="462"/>
+      <linking-phrase-appearance id="53079a54e-d14a8af-9c6" x="815" y="501"/>
+      <linking-phrase-appearance id="8a63ac680-9c6cdb3-b58" x="688" y="463"/>
+      <linking-phrase-appearance id="2443137c7-2521317-271" x="1041" y="379"/>
+      <linking-phrase-appearance id="fd7c5010e-ff42f78-1c4" x="546" y="853"/>
+      <linking-phrase-appearance id="d9f7738b2-4e30440-e33" x="469" y="257"/>
+      <linking-phrase-appearance id="414d6bf88-9c46f96-51f" x="203" y="177"/>
+      <linking-phrase-appearance id="00d80a6ca-7d06160-41d" x="782" y="810"/>
+      <linking-phrase-appearance id="eaf4d3d59-f0b87e8-699" x="467" y="568"/>
+      <linking-phrase-appearance id="499a24fb7-3f4e346-ac7" x="706" y="296"/>
+      <linking-phrase-appearance id="e01ce4612-c489a94-0e2" x="363" y="605"/>
+      <linking-phrase-appearance id="8b5df32da-00e4440-7d6" x="467" y="920"/>
+      <linking-phrase-appearance id="79400cdd4-612cf94-429" x="689" y="710"/>
+      <linking-phrase-appearance id="1e0dee9d3-a18165a-16a" x="466" y="783"/>
+      <linking-phrase-appearance id="db669a22c-61b72b8-16f" x="1003" y="562"/>
+      <linking-phrase-appearance id="935ee1504-507ad77-434" x="915" y="464"/>
+      <linking-phrase-appearance id="7983ee5b0-a2eb949-4f4" x="1071" y="294"/>
+    </linking-phrase-appearance-list>
+    <connection-list>
+      <connection id="327468b31-8cc9051-bf1" from-id="6b89dfa96-102d8f3-8ec" to-id="53079a54e-d14a8af-9c6"/>
+      <connection id="e6fa6f0e9-8c1a8ce-e6d" from-id="39671a106-73cd2a7-7c6" to-id="499a24fb7-3f4e346-ac7"/>
+      <connection id="8e17a9450-038f119-bc0" from-id="da08451d8-be41597-7c2" to-id="fd7c5010e-ff42f78-1c4"/>
+      <connection id="306c22de4-7fd8795-0a3" from-id="84b2d8e59-26a0b13-c9d" to-id="d9f7738b2-4e30440-e33"/>
+      <connection id="3fec08bf5-c4d216a-53f" from-id="935ee1504-507ad77-434" to-id="6d98cf59d-fcba3f7-998"/>
+      <connection id="edd811e4f-753e741-e4d" from-id="39f3d47ac-51c7d05-a4f" to-id="39671a106-73cd2a7-7c6"/>
+      <connection id="fcc7187be-d5486be-812" from-id="414d6bf88-9c46f96-51f" to-id="84b2d8e59-26a0b13-c9d"/>
+      <connection id="4ad67d725-484b4d0-adf" from-id="2443137c7-2521317-271" to-id="6b89dfa96-102d8f3-8ec"/>
+      <connection id="bca738c07-e86dc44-cf4" from-id="b92b884ab-154735a-d6d" to-id="2c296b78f-a33725e-1cb"/>
+      <connection id="e8a51699a-9a5a473-0aa" from-id="8d50d1cf4-ed63955-53a" to-id="eaf4d3d59-f0b87e8-699"/>
+      <connection id="3e6a20521-2a2e060-14c" from-id="e01ce4612-c489a94-0e2" to-id="968c03a96-5ad13a0-c0f"/>
+      <connection id="c2776bf84-f5247a3-b33" from-id="2cc1ca21f-9639a5b-c17" to-id="cda1873fd-0568fb7-826"/>
+      <connection id="6b251b253-d23f4ca-d98" from-id="78f50a21b-dcae3ed-392" to-id="8d50d1cf4-ed63955-53a"/>
+      <connection id="34502efc0-5d3d027-4b9" from-id="8b5df32da-00e4440-7d6" to-id="bbfcc83ab-585fe84-c4d"/>
+      <connection id="78c413791-e9ab416-0c8" from-id="864de891e-a4a1e50-67e" to-id="39f3d47ac-51c7d05-a4f"/>
+      <connection id="4b62f371a-3d3207d-f67" from-id="05ef2eec2-e7b20d3-2a7" to-id="77c1f0e1c-296b219-8ec"/>
+      <connection id="7b29dda02-dfad732-ccc" from-id="8a63ac680-9c6cdb3-b58" to-id="e01c07a84-bd5e70a-c88"/>
+      <connection id="52b2f21b0-563e595-13d" from-id="77c1f0e1c-296b219-8ec" to-id="ad372c13c-7e0d6b8-b6b"/>
+      <connection id="74fdfdff0-38b9e36-5b0" from-id="77c1f0e1c-296b219-8ec" to-id="ce84422e7-c44d19d-7ef"/>
+      <connection id="638a06869-ce9f33e-c97" from-id="b92b884ab-154735a-d6d" to-id="935ee1504-507ad77-434"/>
+      <connection id="23d238b48-977345f-5c7" from-id="0bc1f5bfa-b81cfdf-22e" to-id="79400cdd4-612cf94-429"/>
+      <connection id="4292709f0-e09d2b2-3d9" from-id="7983ee5b0-a2eb949-4f4" to-id="e9d2af7ca-78293cb-b99"/>
+      <connection id="065f22a11-22fc3bb-b38" from-id="bbfcc83ab-585fe84-c4d" to-id="ff26533cf-39a1128-8a0"/>
+      <connection id="b43c0b7b0-dcf7d5e-684" from-id="b92b884ab-154735a-d6d" to-id="53079a54e-d14a8af-9c6"/>
+      <connection id="017ae6178-55aef9d-2b4" from-id="fd7c5010e-ff42f78-1c4" to-id="599b3a925-f4d8e56-a10"/>
+      <connection id="ecf3017f5-9e51c44-de3" from-id="cda1873fd-0568fb7-826" to-id="f469b1d52-5336c09-2bb"/>
+      <connection id="868524bb3-2538a40-0d1" from-id="b13ceaf8b-cba8911-92d" to-id="864de891e-a4a1e50-67e"/>
+      <connection id="5e44a0eff-9b26f48-aaf" from-id="d9f7738b2-4e30440-e33" to-id="b13ceaf8b-cba8911-92d"/>
+      <connection id="18e9b1dd4-0ec25fa-f6c" from-id="8d50d1cf4-ed63955-53a" to-id="8a63ac680-9c6cdb3-b58"/>
+      <connection id="8326d74dd-a667555-fad" from-id="bbc1ce481-2a852c6-c03" to-id="b3abd49b4-2808708-793"/>
+      <connection id="46757bee3-813462c-545" from-id="da08451d8-be41597-7c2" to-id="8b5df32da-00e4440-7d6"/>
+      <connection id="54805b99e-43bf7d8-dca" from-id="00d80a6ca-7d06160-41d" to-id="742d12027-a7e6eac-9e2"/>
+      <connection id="23be3c58a-3ee73bb-f8d" from-id="ff26533cf-39a1128-8a0" to-id="5d33146d0-b4a1fba-54c"/>
+      <connection id="65f950ba3-29dbfc2-ba4" from-id="499a24fb7-3f4e346-ac7" to-id="e01c07a84-bd5e70a-c88"/>
+      <connection id="f3343bec3-85ad5a4-91e" from-id="fd7c5010e-ff42f78-1c4" to-id="1da8a0341-13d1548-1df"/>
+      <connection id="9b63847ef-f851bbf-3e1" from-id="968c03a96-5ad13a0-c0f" to-id="1e0dee9d3-a18165a-16a"/>
+      <connection id="c2bbccbe8-44995f8-e40" from-id="fd7c5010e-ff42f78-1c4" to-id="742d12027-a7e6eac-9e2"/>
+      <connection id="47e8e0724-337e2c3-d75" from-id="2c296b78f-a33725e-1cb" to-id="e01c07a84-bd5e70a-c88"/>
+      <connection id="db6ddf391-151dd2b-f4b" from-id="fd7c5010e-ff42f78-1c4" to-id="40e0995b0-dcd9e38-504"/>
+      <connection id="51d9303df-823c431-35a" from-id="79400cdd4-612cf94-429" to-id="968c03a96-5ad13a0-c0f"/>
+      <connection id="b7fd90f9f-6564664-2da" from-id="ff26533cf-39a1128-8a0" to-id="1f99bd314-985b64a-559"/>
+      <connection id="0122f4ede-9f91395-b8d" from-id="39f3d47ac-51c7d05-a4f" to-id="05ef2eec2-e7b20d3-2a7"/>
+      <connection id="8035725b7-7ffc0a0-40c" from-id="b5b11e79c-c7ddf7a-1d0" to-id="6b89dfa96-102d8f3-8ec"/>
+      <connection id="265b0d126-49c102f-394" from-id="6d98cf59d-fcba3f7-998" to-id="b5b11e79c-c7ddf7a-1d0"/>
+      <connection id="207ea70c2-1387b74-b2d" from-id="23f016929-411c954-843" to-id="6fdc422fb-feea5d8-451"/>
+      <connection id="31ff07a30-73e37b9-883" from-id="39671a106-73cd2a7-7c6" to-id="bd40b1b29-c7cd278-caf"/>
+      <connection id="3d265a735-fa3942e-981" from-id="b3abd49b4-2808708-793" to-id="2443137c7-2521317-271"/>
+      <connection id="7109404b1-579d7c4-893" from-id="e01c07a84-bd5e70a-c88" to-id="7983ee5b0-a2eb949-4f4"/>
+      <connection id="88465d21c-b678769-9dd" from-id="53079a54e-d14a8af-9c6" to-id="968c03a96-5ad13a0-c0f"/>
+      <connection id="4aef6b924-82a23e9-972" from-id="77c1f0e1c-296b219-8ec" to-id="c92b7acc8-ddeba05-249"/>
+      <connection id="8ec575161-5a2a894-170" from-id="6fdc422fb-feea5d8-451" to-id="0bc1f5bfa-b81cfdf-22e"/>
+      <connection id="ee1cef0b5-4e4142d-90a" from-id="cda1873fd-0568fb7-826" to-id="db669a22c-61b72b8-16f"/>
+      <connection id="d7cc0ffed-02c8284-b85" from-id="8a63ac680-9c6cdb3-b58" to-id="cda1873fd-0568fb7-826"/>
+      <connection id="9901a8355-63b314f-8e0" from-id="f469b1d52-5336c09-2bb" to-id="0bc1f5bfa-b81cfdf-22e"/>
+      <connection id="e9f8b7152-871ff15-071" from-id="53079a54e-d14a8af-9c6" to-id="cda1873fd-0568fb7-826"/>
+      <connection id="a46f54f01-f0195a4-999" from-id="b92b884ab-154735a-d6d" to-id="bbc1ce481-2a852c6-c03"/>
+      <connection id="866ef0a8e-257f18f-1cb" from-id="f61e5f829-cf5e5b1-146" to-id="2443137c7-2521317-271"/>
+      <connection id="030535c4b-ecaba92-212" from-id="864de891e-a4a1e50-67e" to-id="78f50a21b-dcae3ed-392"/>
+      <connection id="aa8083f7b-ff4d8c3-e93" from-id="0bc1f5bfa-b81cfdf-22e" to-id="00d80a6ca-7d06160-41d"/>
+      <connection id="14651c336-e5203f8-969" from-id="eaf4d3d59-f0b87e8-699" to-id="968c03a96-5ad13a0-c0f"/>
+      <connection id="7b223a181-728a548-a6d" from-id="78f50a21b-dcae3ed-392" to-id="b4429ed44-d70de24-dfa"/>
+      <connection id="5d9f39b13-1a35ee3-069" from-id="bbc1ce481-2a852c6-c03" to-id="f61e5f829-cf5e5b1-146"/>
+      <connection id="5d4be1c11-3a58304-b1e" from-id="14989c24f-46c6667-b63" to-id="414d6bf88-9c46f96-51f"/>
+      <connection id="60e350a5f-08db730-647" from-id="05ef2eec2-e7b20d3-2a7" to-id="2cc1ca21f-9639a5b-c17"/>
+      <connection id="0d55880e6-f0001a2-c2a" from-id="bd40b1b29-c7cd278-caf" to-id="b92b884ab-154735a-d6d"/>
+      <connection id="3e50158a9-cc91592-b55" from-id="1e0dee9d3-a18165a-16a" to-id="da08451d8-be41597-7c2"/>
+      <connection id="14effa5bb-4d9c4f3-8cf" from-id="db669a22c-61b72b8-16f" to-id="23f016929-411c954-843"/>
+      <connection id="0cb4650ab-f13787e-555" from-id="b4429ed44-d70de24-dfa" to-id="e01ce4612-c489a94-0e2"/>
+    </connection-list>
+    <concept-appearance-list>
+      <connection-appearance id="327468b31-8cc9051-bf1" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="e6fa6f0e9-8c1a8ce-e6d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8e17a9450-038f119-bc0" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="306c22de4-7fd8795-0a3" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3fec08bf5-c4d216a-53f" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="edd811e4f-753e741-e4d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="fcc7187be-d5486be-812" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="4ad67d725-484b4d0-adf" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="bca738c07-e86dc44-cf4" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="e8a51699a-9a5a473-0aa" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3e6a20521-2a2e060-14c" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="c2776bf84-f5247a3-b33" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="6b251b253-d23f4ca-d98" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="34502efc0-5d3d027-4b9" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="78c413791-e9ab416-0c8" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="4b62f371a-3d3207d-f67" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="7b29dda02-dfad732-ccc" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="52b2f21b0-563e595-13d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="74fdfdff0-38b9e36-5b0" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="638a06869-ce9f33e-c97" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="23d238b48-977345f-5c7" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="4292709f0-e09d2b2-3d9" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="065f22a11-22fc3bb-b38" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="b43c0b7b0-dcf7d5e-684" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="017ae6178-55aef9d-2b4" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="ecf3017f5-9e51c44-de3" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="868524bb3-2538a40-0d1" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="5e44a0eff-9b26f48-aaf" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="18e9b1dd4-0ec25fa-f6c" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8326d74dd-a667555-fad" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="46757bee3-813462c-545" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="54805b99e-43bf7d8-dca" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="23be3c58a-3ee73bb-f8d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="65f950ba3-29dbfc2-ba4" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="f3343bec3-85ad5a4-91e" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="9b63847ef-f851bbf-3e1" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="c2bbccbe8-44995f8-e40" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="47e8e0724-337e2c3-d75" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="db6ddf391-151dd2b-f4b" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="51d9303df-823c431-35a" from-pos="center" to-pos="right" arrowhead="if-to-concept"/>
+      <connection-appearance id="b7fd90f9f-6564664-2da" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0122f4ede-9f91395-b8d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8035725b7-7ffc0a0-40c" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="265b0d126-49c102f-394" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="207ea70c2-1387b74-b2d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="31ff07a30-73e37b9-883" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3d265a735-fa3942e-981" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="7109404b1-579d7c4-893" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="88465d21c-b678769-9dd" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="4aef6b924-82a23e9-972" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8ec575161-5a2a894-170" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="ee1cef0b5-4e4142d-90a" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="d7cc0ffed-02c8284-b85" from-pos="center" to-pos="left" arrowhead="if-to-concept"/>
+      <connection-appearance id="9901a8355-63b314f-8e0" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="e9f8b7152-871ff15-071" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="a46f54f01-f0195a4-999" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="866ef0a8e-257f18f-1cb" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="030535c4b-ecaba92-212" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="aa8083f7b-ff4d8c3-e93" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="14651c336-e5203f8-969" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="7b223a181-728a548-a6d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="5d9f39b13-1a35ee3-069" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="5d4be1c11-3a58304-b1e" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="60e350a5f-08db730-647" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0d55880e6-f0001a2-c2a" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3e50158a9-cc91592-b55" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="14effa5bb-4d9c4f3-8cf" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0cb4650ab-f13787e-555" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+    </concept-appearance-list>
+  </map>
+</cmap>

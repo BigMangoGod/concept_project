@@ -1,0 +1,138 @@
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <res-meta xmlns="">
+    <dc:title>圆的周长和面积-副本</dc:title>
+    <dc:creator>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dc:creator>
+    <dc:contributor>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dc:contributor>
+    <dcterms:rightsHolder>
+      <vcard:FN/>
+      <vcard:EMAIL/>
+      <vcard:ORG>
+        <vcard:Orgname/>
+      </vcard:ORG>
+    </dcterms:rightsHolder>
+  </res-meta>
+  <map xmlns="" width="0" height="0">
+    <concept-list>
+      <concept id="3676a373b-94062c3-1b8" label="圆的面积正比于圆的半径的平方"/>
+      <concept id="2522a6cdd-73a5f7c-230" label="直接用积分算面积，暂时不用这个方式"/>
+      <concept id="c3de1fe59-307d942-022" label="上下界夹逼的思想"/>
+      <concept id="773926d9d-980d097-28f" label="量纲分析：周长的单位和半径的单位相同，因此，只能是$C=\Pi r$"/>
+      <concept id="b42fbef63-0fcda87-29f" label="直接用积分算线长，暂时不用这个方式"/>
+      <concept id="bc69b81b2-c79db2d-2a8" label="量纲分析：面积的单位和半径的单位的平方，因此，只能是$S=\pi r^2$"/>
+      <concept id="f539da9d7-43010e0-cb0" label="计算机编程来实现"/>
+      <concept id="4a58e6810-7b45ea2-290" label="$N$等分切割圆成为边长为周长$\frac{1}{2}C(r)$高为$r$的长方形：$S=\frac{1}{2}\Pi r^2 \Rightarrow \pi=\frac{1}{2}\Pi$"/>
+      <concept id="e7e68c992-22e8905-ec9" label="生活经验的启发"/>
+      <concept id="638d84bdd-76cc2bf-ed7" label="圆内接和外切正多边形的周长来逼近"/>
+      <concept id="2d12dd635-dc7bc9d-c46" label="圆的周长正比于圆的半径"/>
+      <concept id="b92708768-a87cf06-4bc" label="两个常数$\Pi$和$\pi$的关系$\Pi=2\pi$"/>
+      <concept id="0d3e020fb-0cf438d-1ff" label="极限的思想"/>
+      <concept id="252af55de-e0d4f55-995" label="环面积的积分：$S(R)=\int_{0}^{R}C(r)dr=\Pi \int_{0}^{R} r dr = \frac{1}{2}\Pi R^2 \Rightarrow \pi=\frac{1}{2}\Pi$"/>
+      <concept id="6556dacaa-20158ff-a92" label="从圆的周长和面积体会到极限的思想，量纲；通过$\pi$的估计来体会到夹逼的思想"/>
+      <concept id="c7b89a46f-9178409-5f2" label="如何得到$\pi$"/>
+    </concept-list>
+    <concept-appearance-list>
+      <concept-appearance id="3676a373b-94062c3-1b8" x="1238" y="371"/>
+      <concept-appearance id="2522a6cdd-73a5f7c-230" x="1161" y="300"/>
+      <concept-appearance id="c3de1fe59-307d942-022" x="264" y="727"/>
+      <concept-appearance id="773926d9d-980d097-28f" x="720" y="438"/>
+      <concept-appearance id="b42fbef63-0fcda87-29f" x="576" y="301"/>
+      <concept-appearance id="bc69b81b2-c79db2d-2a8" x="1118" y="439"/>
+      <concept-appearance id="f539da9d7-43010e0-cb0" x="264" y="452"/>
+      <concept-appearance id="4a58e6810-7b45ea2-290" x="1152" y="704"/>
+      <concept-appearance id="e7e68c992-22e8905-ec9" x="858" y="324"/>
+      <concept-appearance id="638d84bdd-76cc2bf-ed7" x="264" y="590"/>
+      <concept-appearance id="2d12dd635-dc7bc9d-c46" x="522" y="383"/>
+      <concept-appearance id="b92708768-a87cf06-4bc" x="857" y="590"/>
+      <concept-appearance id="0d3e020fb-0cf438d-1ff" x="1152" y="848"/>
+      <concept-appearance id="252af55de-e0d4f55-995" x="661" y="703"/>
+      <concept-appearance id="6556dacaa-20158ff-a92" x="853" y="225"/>
+      <concept-appearance id="c7b89a46f-9178409-5f2" x="528" y="593"/>
+    </concept-appearance-list>
+    <linking-phrase-list>
+      <linking-phrase id="81f5c429f-286fee0-49a" label="进一步提出"/>
+      <linking-phrase id="7c51ad1a7-9d71611-ff2" label="体现了"/>
+      <linking-phrase id="dbf8814ca-aa8866b-6ba" label="通过"/>
+      <linking-phrase id="2d8c59ad6-4425b1d-bcd" label="通过"/>
+      <linking-phrase id="21b3251d0-09f9e48-157" label="进一步提出"/>
+      <linking-phrase id="45680f7e5-cd9c6a2-24f" label="体现了"/>
+      <linking-phrase id="d937d6a83-70ed413-5c3" label="通过"/>
+      <linking-phrase id="c458a2ea7-a7fd593-24f" label="来自于"/>
+      <linking-phrase id="88fee5ee4-b6935fe-170" label="来自于"/>
+    </linking-phrase-list>
+    <linking-phrase-appearance-list>
+      <linking-phrase-appearance id="81f5c429f-286fee0-49a" x="857" y="531"/>
+      <linking-phrase-appearance id="7c51ad1a7-9d71611-ff2" x="1152" y="780"/>
+      <linking-phrase-appearance id="dbf8814ca-aa8866b-6ba" x="264" y="521"/>
+      <linking-phrase-appearance id="2d8c59ad6-4425b1d-bcd" x="856" y="640"/>
+      <linking-phrase-appearance id="21b3251d0-09f9e48-157" x="660" y="592"/>
+      <linking-phrase-appearance id="45680f7e5-cd9c6a2-24f" x="264" y="659"/>
+      <linking-phrase-appearance id="d937d6a83-70ed413-5c3" x="434" y="593"/>
+      <linking-phrase-appearance id="c458a2ea7-a7fd593-24f" x="1026" y="376"/>
+      <linking-phrase-appearance id="88fee5ee4-b6935fe-170" x="650" y="383"/>
+    </linking-phrase-appearance-list>
+    <connection-list>
+      <connection id="4bf6c1a1e-977f999-7c3" from-id="88fee5ee4-b6935fe-170" to-id="e7e68c992-22e8905-ec9"/>
+      <connection id="7a2747d3d-03126df-ebc" from-id="7c51ad1a7-9d71611-ff2" to-id="0d3e020fb-0cf438d-1ff"/>
+      <connection id="d488ac939-0a7ec84-a5e" from-id="b92708768-a87cf06-4bc" to-id="21b3251d0-09f9e48-157"/>
+      <connection id="0888c5dc7-57aaa9f-444" from-id="c458a2ea7-a7fd593-24f" to-id="bc69b81b2-c79db2d-2a8"/>
+      <connection id="922f4495f-9dba7d5-edc" from-id="c458a2ea7-a7fd593-24f" to-id="e7e68c992-22e8905-ec9"/>
+      <connection id="0f5efa3e9-f404bd7-424" from-id="dbf8814ca-aa8866b-6ba" to-id="f539da9d7-43010e0-cb0"/>
+      <connection id="bf8b9f994-c5a0799-110" from-id="c7b89a46f-9178409-5f2" to-id="d937d6a83-70ed413-5c3"/>
+      <connection id="6caac847c-95954e1-649" from-id="b92708768-a87cf06-4bc" to-id="2d8c59ad6-4425b1d-bcd"/>
+      <connection id="3715f8833-e92890c-db0" from-id="81f5c429f-286fee0-49a" to-id="b92708768-a87cf06-4bc"/>
+      <connection id="91097e7f4-c8a95dc-0a7" from-id="4a58e6810-7b45ea2-290" to-id="7c51ad1a7-9d71611-ff2"/>
+      <connection id="cb6c886e2-47706b6-b96" from-id="3676a373b-94062c3-1b8" to-id="c458a2ea7-a7fd593-24f"/>
+      <connection id="e25e506da-891592f-c53" from-id="638d84bdd-76cc2bf-ed7" to-id="45680f7e5-cd9c6a2-24f"/>
+      <connection id="651ce89cc-19cbf7a-d16" from-id="2d8c59ad6-4425b1d-bcd" to-id="4a58e6810-7b45ea2-290"/>
+      <connection id="4ea22eb30-1ea7303-269" from-id="45680f7e5-cd9c6a2-24f" to-id="c3de1fe59-307d942-022"/>
+      <connection id="f45e34f52-0a41d8b-9a1" from-id="638d84bdd-76cc2bf-ed7" to-id="dbf8814ca-aa8866b-6ba"/>
+      <connection id="074e86f97-b328c4f-5e1" from-id="773926d9d-980d097-28f" to-id="81f5c429f-286fee0-49a"/>
+      <connection id="e813bbd13-1a6eb19-c5d" from-id="88fee5ee4-b6935fe-170" to-id="773926d9d-980d097-28f"/>
+      <connection id="8b9308d67-8a54302-c29" from-id="d937d6a83-70ed413-5c3" to-id="638d84bdd-76cc2bf-ed7"/>
+      <connection id="eb7dd2b7f-057f2a8-f52" from-id="88fee5ee4-b6935fe-170" to-id="b42fbef63-0fcda87-29f"/>
+      <connection id="c3c09a696-aefeb17-17e" from-id="c458a2ea7-a7fd593-24f" to-id="2522a6cdd-73a5f7c-230"/>
+      <connection id="00166fe28-3a43362-19c" from-id="21b3251d0-09f9e48-157" to-id="c7b89a46f-9178409-5f2"/>
+      <connection id="3b6b23cfe-198ff0c-61e" from-id="2d12dd635-dc7bc9d-c46" to-id="88fee5ee4-b6935fe-170"/>
+      <connection id="114a84c3c-bef5eb4-4d4" from-id="2d8c59ad6-4425b1d-bcd" to-id="252af55de-e0d4f55-995"/>
+      <connection id="903f6865f-6556f1d-c35" from-id="bc69b81b2-c79db2d-2a8" to-id="81f5c429f-286fee0-49a"/>
+    </connection-list>
+    <concept-appearance-list>
+      <connection-appearance id="4bf6c1a1e-977f999-7c3" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="7a2747d3d-03126df-ebc" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="d488ac939-0a7ec84-a5e" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0888c5dc7-57aaa9f-444" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="922f4495f-9dba7d5-edc" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="0f5efa3e9-f404bd7-424" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="bf8b9f994-c5a0799-110" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="6caac847c-95954e1-649" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3715f8833-e92890c-db0" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="91097e7f4-c8a95dc-0a7" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="cb6c886e2-47706b6-b96" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="e25e506da-891592f-c53" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="651ce89cc-19cbf7a-d16" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="4ea22eb30-1ea7303-269" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="f45e34f52-0a41d8b-9a1" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="074e86f97-b328c4f-5e1" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="e813bbd13-1a6eb19-c5d" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="8b9308d67-8a54302-c29" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="eb7dd2b7f-057f2a8-f52" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="c3c09a696-aefeb17-17e" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="00166fe28-3a43362-19c" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="3b6b23cfe-198ff0c-61e" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="114a84c3c-bef5eb4-4d4" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+      <connection-appearance id="903f6865f-6556f1d-c35" from-pos="center" to-pos="center" arrowhead="if-to-concept"/>
+    </concept-appearance-list>
+  </map>
+</cmap>
